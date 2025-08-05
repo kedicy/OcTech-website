@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About Us – OcTech Limited</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">OcTech Limited</div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html" class="active">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="qsimplified.html">QSimplified</a></li>
+        <li><a href="careers.html">Careers</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="page-header">
+    <h1>About OcTech</h1>
+    <p>Passionate about building reliable, secure, and scalable tech solutions in Africa and beyond.</p>
+  </section>
+
+  <section class="about-content">
+    <div class="container">
+      <h2>Who We Are</h2>
+      <p>OcTech Limited is a forward-thinking digital solutions provider driven by innovation, integrity, and excellence. We are a diverse, cross-functional team with deep expertise in Software Development, Systems Administration, Data Science, and IT Infrastructure.</p>
+
+      <h2>Our Mission</h2>
+      <p>To deliver a holistic customer-centric digital business transformation through innovation.</p>
+
+      <h2>Our Vision</h2>
+      <p>To be the leading go-to technology solutions provider for businesses in Africa.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Octech Limited. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog – OcTech Limited</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">OcTech Limited</div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="qsimplified.html">QSimplified</a></li>
+        <li><a href="careers.html">Careers</a></li>
+        <li><a href="blog.html" class="active">Blog</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="page-header">
+    <h1>Octech Blog</h1>
+    <p>Insights, stories, and updates from the Octech team.</p>
+  </section>
+
+  <section class="blog-content">
+    <div class="container">
+      <article class="blog-post">
+        <h2>How QSimplified Transformed Service at Housing Finance Bank</h2>
+        <p class="meta">July 20, 2025 · by Octech Team</p>
+        <p>Discover how our QSimplified Queue Management System improved efficiency, reduced wait times, and enhanced customer satisfaction at Housing Finance Bank branches.</p>
+        <a href="#" class="read-more">Read More →</a>
+      </article>
+
+      <article class="blog-post">
+        <h2>Octech Partners with Clinics to Improve Patient Flow</h2>
+        <p class="meta">June 30, 2025 · by Octech Team</p>
+        <p>We’re deploying QSimplified to regional health centers, streamlining the patient check-in process and boosting service delivery.</p>
+        <a href="#" class="read-more">Read More →</a>
+      </article>
+
+      <article class="blog-post">
+        <h2>Our Approach to Building Scalable Tech for African Markets</h2>
+        <p class="meta">June 10, 2025 · by Octech Team</p>
+        <p>From design to deployment, here’s how we create smart solutions tailored for Africa’s unique challenges and opportunities.</p>
+        <a href="#" class="read-more">Read More →</a>
+      </article>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Octech Limited. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Careers – OcTech Limited</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">OcTech Limited</div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="qsimplified.html">QSimplified</a></li>
+        <li><a href="careers.html" class="active">Careers</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="page-header">
+    <h1>Join Our Team</h1>
+    <p>Be part of a team shaping the future of technology in Africa.</p>
+  </section>
+
+  <section class="careers-content">
+    <div class="container">
+      <h2>Why Work with Octech?</h2>
+      <ul>
+        <li>Collaborate with a passionate, driven team</li>
+        <li>Work on real-world solutions that create impact</li>
+        <li>Enjoy flexible working hours and remote options</li>
+        <li>Opportunities for professional growth and learning</li>
+      </ul>
+
+      <h2>Open Roles</h2>
+      <div class="job-listing">
+        <h3>Frontend Developer</h3>
+        <p>We’re looking for a React or Vue developer with UI/UX skills. Apply if you love clean interfaces.</p>
+
+        <h3>Backend Developer</h3>
+        <p>Experience with Node.js or Django? Join us to build APIs that power real products.</p>
+
+        <h3>Sales & Partnerships Lead</h3>
+        <p>Are you a great communicator with business development flair? Let’s grow together.</p>
+      </div>
+
+      <a href="contact.html" class="btn">Send Your CV</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Octech Limited. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact – OcTech Limited</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">OcTech Limited</div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="qsimplified.html">QSimplified</a></li>
+        <li><a href="careers.html">Careers</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="contact.html" class="active">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="page-header">
+    <h1>Contact Us</h1>
+    <p>We're here to help — reach out and let's talk.</p>
+  </section>
+
+  <section class="contact-content">
+    <div class="container">
+      <form class="contact-form">
+        <label for="name">Your Name</label>
+        <input type="text" id="name" placeholder="John Doe" />
+
+        <label for="email">Email</label>
+        <input type="email" id="email" placeholder="you@example.com" />
+
+        <label for="message">Message</label>
+        <textarea id="message" placeholder="How can we help you?"></textarea>
+
+        <button type="submit">Send Message</button>
+      </form>
+
+      <div class="contact-info">
+        <h3>Visit Us</h3>
+        <p>OcTech Limited<br>
+        Plot 823 Mawanda Road | Kamwokya<br>
+        P.O. Box 72589<br>
+        Kampala - Uganda.</p>
+
+        <h3>Email</h3>
+        <p><a href="mailto:hello@octech.africa">info@octech.digital</a></p>
+
+        <h3>Telephone</h3>
+        <p>+256773178477</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Octech Limited. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OcTech Limited</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">OcTech Limited</div>
+      <ul class="nav-links">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="qsimplified.html">QSimplified</a></li>
+        <li><a href="careers.html">Careers</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section id="solutions" style="padding: 60px 20px; background-color: #f8f9fa;">
+  <div style="max-width: 1200px; margin: auto;">
+    <h2 style="text-align: center; color: #003366; font-size: 32px; margin-bottom: 10px;">
+      Simplifying Technology for a Smarter Tomorrow
+    </h2>
+    <p style="text-align: center; color: #555; margin-bottom: 40px;">
+      From Queue Management to Visitor Registration, OcTech powers your operations with smart, secure solutions.
+    </p>
+
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
+      <button style="padding: 10px 20px; background-color: #003366; color: #fff; border: none; border-radius: 4px; cursor: pointer;">Explore Our Solutions</button>
+      <button style="padding: 10px 20px; border: 2px solid #003366; color: #003366; background-color: transparent; border-radius: 4px; cursor: pointer;">Request a Demo</button>
+    </div>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: space-between;">
+
+      <!-- QSimplified -->
+      <div style="flex: 1 1 300px; background: #fff; border-radius: 8px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+        <h3 style="color: #003366;">QSimplified – Queue Management System</h3>
+        <img src="images/qsimplified.png" alt="QSimplified Kiosk" style="width: 100%; border-radius: 8px; margin: 15px 0;">
+        <ul style="color: #444;">
+          <li> Smart branch queuing</li>
+          <li> Ticketing, display, audio announcements</li>
+          <li> Bank-tested, user feedback</li>
+          <li> Live dashboard and feedback module</li>
+        </ul>
+      </div>
+
+      <!-- VisReg -->
+      <div style="flex: 1 1 300px; background: #fff; border-radius: 8px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+        <h3 style="color: #003366;">VisReg – Visitor Registration System</h3>
+        <img src="images/visreg.png" alt="Visitor Registration Tablet" style="width: 100%; border-radius: 8px; margin: 15px 0;">
+        <ul style="color: #444;">
+          <li> Seamless digital check-in for branch visitors</li>
+          <li> Capture photo, ID, and visit purpose securely</li>
+          <li> Generates branded visitors badges for controlled access</li>
+          <li> Real-time logs, analytics, and audit-ready reports</li>
+        </ul>
+      </div>
+<!-- Business Intelligence -->
+      <div style="flex: 1 1 300px; background: #fff; border-radius: 8px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+        <h3 style="color: #003366;">Business Intelligence</h3>
+        <img src="images/intelligence.png" alt="Business Intelligence Registration" style="width: 100%; border-radius: 8px; margin: 15px 0;">
+        <ul style="color: #444;">
+          <li> Real-time data dashboards and analytics</li>
+          <li> Visual reports for smarter decision making</li>
+          <li> Tracking KPIs, trends, and customer behavior</li>
+          <li> Integrates with existing systems for insights</li>
+        </ul>
+      </div>
+      
+      <!-- Multimedia 
+      <div style="flex: 1 1 300px; background: #fff; border-radius: 8px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+        <h3 style="color: #003366;">Multimedia Display & Ads</h3>
+        <img src="images/multimedia.png" alt="Multimedia Display Screen" style="width: 100%; border-radius: 8px; margin: 15px 0;">
+        <ul style="color: #444;">
+          <li> Dynamic ads scheduling and content rotation </li>
+          <li> Supports images, videos, and live feeds</li>
+          <li> Targeted promotions by branch or location </li>
+          <li> Remote management and real-time updates</li>
+        </ul>
+      </div>
+    -->
+
+    </div>
+  </div>
+</section>
+
+  <!--
+  <section class="hero">
+    <h1>Innovative Technology Solutions</h1>
+    <p>Delivering cutting-edge solutions to drive your business forward.</p>
+    <a href="about.html" class="btn">Learn More</a>
+  </section>
+-->
+  <section class="services-preview">
+    <h2>Our Services</h2>
+    <div class="services-grid">
+      <div class="service">Software Development</div>
+      <div class="service">Cloud Solutions</div>
+      <div class="service">Cybersecurity</div>
+      <div class="service">IT Consulting</div>
+    </div>
+<!--
+  </section>
+<section id="qsimplified">
+  <h2>QSimplified</h2>
+  <img src="images/qsimplified.jpg" alt="QSimplified System" width="100%" />
+  <p>QSimplified is our queue management system designed to streamline client flow in branches.</p>
+</section>
+
+<section id="visreg">
+  <h2>Visitor Registration (VisReg)</h2>
+  <img src="images/visreg.jpg" alt="Visitor Registration System" width="100%" />
+  <p>VisReg is a secure digital system for registering and managing visitors efficiently.</p>
+</section>
+
+<section id="multimedia">
+  <h2>Multimedia Ads Display</h2>
+  <img src="images/multimedia.jpg" alt="Multimedia Display" width="100%" />
+  <p>Dynamic multimedia screens displaying ads, queues, and updates in real-time.</p>
+</section>
+-->
+
+  <footer>
+    <p>&copy; 2025 Octech Limited. All rights reserved.</p>
+  </footer>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>QSimplified – OcTech Limited</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">OcTech Limited</div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="qsimplified.html" class="active">QSimplified</a></li>
+        <li><a href="careers.html">Careers</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="page-header">
+    <h1>QSimplified</h1>
+    <p>A modern, efficient Queue Management System designed for banks, clinics, and service centers.</p>
+  </section>
+
+  <section class="qsimplified-content">
+    <div class="container">
+      <h2>What is QSimplified?</h2>
+      <p>QSimplified is Octech’s digital queue management solution that improves customer flow, reduces wait times, and enhances the service experience. It integrates seamlessly with ticket printers, digital signage, and real-time dashboards.</p>
+
+      <h2>Core Features</h2>
+      <ul>
+        <li>Touchscreen ticket kiosks</li>
+        <li>Dynamic display screens</li>
+        <li>Staff dashboard & branch control</li>
+        <li>SMS notifications</li>
+        <li>Daily reports & performance analytics</li>
+      </ul>
+
+      <h2>Why Choose QSimplified?</h2>
+      <p>Built with simplicity in mind, QSimplified is easy to deploy, cost-effective, and customizable to your service environment.</p>
+
+      <a href="contact.html" class="btn">Request a Demo</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Octech Limited. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Services – OcTech Limited</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">OcTech Limited</div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html" class="active">Services</a></li>
+        <li><a href="qsimplified.html">QSimplified</a></li>
+        <li><a href="careers.html">Careers</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="page-header">
+    <h1>Our Services</h1>
+    <p>We offer tailored technology solutions to help your business thrive.</p>
+  </section>
+
+  <section class="services-section">
+    <div class="container">
+      <div class="service-box">
+        <h2>Software Development</h2>
+        <p>Custom applications built to meet your specific needs using the latest technologies.</p>
+      </div>
+
+      <div class="service-box">
+        <h2>Cloud Solutions</h2>
+        <p>Modern, scalable, and secure cloud infrastructure to grow your business operations.</p>
+      </div>
+
+      <div class="service-box">
+        <h2>Cybersecurity</h2>
+        <p>Protect your digital assets with advanced security solutions and monitoring.</p>
+      </div>
+
+      <div class="service-box">
+        <h2>IT Consulting</h2>
+        <p>Expert guidance to help you adopt the right technology strategies and tools.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Octech Limited. All rights reserved.</p>
+  </footer>
+</body>
+</html>
